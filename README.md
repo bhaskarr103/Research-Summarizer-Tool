@@ -2,6 +2,7 @@
 
 ## Overview
 The **Research Summarizer Tool** is a Streamlit-based web application that leverages **LangChain** and **Hugging Face Transformers** to generate dynamic research paper summaries. Users can customize the explanation style and length, ensuring tailored and contextualized summaries.
+Explained on my Hashnode profile : [Link]( https://static-and-dynamic-prompts-in-langchain.hashnode.dev/writing-a-simple-dynamic-prompt-app-with-streamlit-using-langchain)
 
 ## Features
 - **Dynamic Prompting:** Generates responses based on user inputs.
