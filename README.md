@@ -18,6 +18,9 @@ The **Research Summarizer Tool** is a Streamlit-based web application that lever
 
 ## Output
 
+![Screenshot (94)](https://github.com/user-attachments/assets/ce0edd1a-ce04-4e4c-94f0-0eff897e799c)
+
+
 ## Installation
 ### Prerequisites
 Ensure you have Python installed (>=3.8). You also need an API key from Hugging Face.
